@@ -1,0 +1,3 @@
+C:/Users/mcapi/CLionProjects/algoritmos/integracao-numerica/cmake-build-debug/CMakeFiles/integracao_numerica.dir
+C:/Users/mcapi/CLionProjects/algoritmos/integracao-numerica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mcapi/CLionProjects/algoritmos/integracao-numerica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
